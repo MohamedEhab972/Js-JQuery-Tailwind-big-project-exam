@@ -255,7 +255,7 @@ function displayMealDetails() {
           </div>
           <div class="info2 w-full md:w-2/3 p-5 text-white">
             <h2 class="my-5 text-4xl font-bold">Instructions</h2>
-            <p class="my-5">
+            <p class="my-5 ">
             ${array[0].strInstructions}
             </p>
             <h3 class="my-5 text-2xl">
